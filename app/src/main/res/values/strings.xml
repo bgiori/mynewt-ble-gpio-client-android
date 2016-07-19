@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Mynewt BLE Client</string>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="label_data">Instruction:</string>
+    <string name="label_device_address">Device address:</string>
+    <string name="label_state">State:</string>
+    <string name="no_data">No data</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="title_devices">BLE Device Scan</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+
+    <string name="unknown_device">Unknown device</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_service">Unknown service</string>
+
+    <!-- Menu items -->
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Stop</string>
+
+    <string name="pin_number">Pin Number:</string>
+    <string name="initial_value">Initial Value:</string>
+    <string name="direction">Direction:</string>
+    <string name="done">Initialize</string>
+    <string name="cancel">Cancel</string>
+    <string name="init_new_gpio">Initialize New GPIO</string>
+    <string name="gpio_list_pin_title">Pin </string>
+    <string name="gpio_list_read_value_title">Last read value: </string>
+    <string name="gpio_list_write_hint">Byte hex value (e.g. B)</string>
+    <string name="read">Read</string>
+    <string name="ic_refresh_title">Refresh</string>
+
+    <string-array name="io">
+        <item>Output</item>
+        <item>Input</item>
+    </string-array>
+</resources>
